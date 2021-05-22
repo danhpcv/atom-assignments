@@ -1,5 +1,0 @@
-------------London------------
-Temperature: 285.59
-Humidity: 66
-Pressure: 1010
-Weather Report: overcast clouds
